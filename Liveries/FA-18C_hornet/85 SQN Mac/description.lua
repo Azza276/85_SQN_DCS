@@ -239,5 +239,5 @@ livery = {
 
 	
 }
-name = "85 SQN Red Roosters"
-countries = {"AUS",}
+name = "85 SQN MacGynan"
+countries = {"AUS","USA",}
