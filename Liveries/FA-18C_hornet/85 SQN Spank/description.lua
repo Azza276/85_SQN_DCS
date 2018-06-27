@@ -232,9 +232,9 @@ livery = {
 	{"FPU_8A", 0 ,"FPU_8A_85SQN_SPANK",false};
 	{"FPU_8A", ROUGHNESS_METALLIC ,"FPU_8A_Diff_RoughMet",true};
 	
-	{"aim7_material", 0, "aim7m_diffuse",false};
+	{"aim7_material", 0, "aim7m_diffuse_spank",false};
 	
-	{"aim-9m", 0 ,"AIM-9M_Diff",false};
+	{"aim-9m", 0 ,"AIM-9M_Diff_spank",false};
 --	{"aim-9m", ROUGHNESS_METALLIC ,"AIM-9M_Diff_RoughMet",true};
 	
 	{"BRU_33", 0, "bru_33_diff_spank", false};
