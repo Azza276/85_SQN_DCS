@@ -234,24 +234,44 @@ livery = {
 	
 	{"aim7_material", 0, "aim7m_diffuse_spank",false};
 	
-	{"aim-9m", 0 ,"AIM-9M_Diff_spank",false};
+	{"AIM-9M", 0 ,"AIM-9M_Diff_spank",false};
 --	{"aim-9m", ROUGHNESS_METALLIC ,"AIM-9M_Diff_RoughMet",true};
+	{"AIM-9_Glass", 0, "aim-9m_glass_diff", true};
+	
+	{"AIM-9L", 0, "AIM-9L_Diff_spank", false};
 	
 	{"BRU_33", 0, "bru_33_diff_spank", false};
---    	{"BRU_33", 2, "bru_33_dif_roughmet", true};
+--  {"BRU_33", 2, "bru_33_dif_roughmet", true};
 
-    	{"LAU_115C_127", 0, "LAU_115C_LAU_127_DIF_spank", false};
+    {"LAU_115C_127", 0, "LAU_115C_LAU_127_DIF_spank", false};
 --	{"LAU_115C_127", 2, "lau_115c_lau_127_dif_roughmet", true};
 
-   	{"LAU_10", 0, "lau_10_dif_spank", false};
+    {"LAU_10", 0, "lau_10_dif_spank", false};
 --	{"LAU_10", 2, "lau_10_dif_roughmet", true};
 
-    	{"mk_83", 0, "mk_83_diff_spank", false};
---	{"mk_83", 1, "mk_83_nm", true};
---	{"mk_83", 2, "mk_83_diff_roughmet", true};
---	{"MK_noses", 0, "mk_noses_diff_spank", false};
---	{"MK_noses", 1, "mk_noses_nm", true};
---	{"MK_noses", 2, "mk_noses_diff_roughmet", true};	
+	{"MK_82", 0, "MK_82_diff_spank", false};
+	
+	{"MK_82_Snakeye", 0, "MK_82Snak_diff_spank", false};
+
+	{"mk_83", 0, "mk_83_diff_spank", false};
+ --	{"mk_83", 1, "mk_83_nm", true};
+ --	{"mk_83", 2, "mk_83_diff_roughmet", true};
+ 
+	{"mk_84", 0, "MK_84_Diff_spank", false};
+ 
+	{"MK_noses", 0, "mk_noses_diff_spank", false};
+ --	{"MK_noses", 1, "mk_noses_nm", true};
+ --	{"MK_noses", 2, "mk_noses_diff_roughmet", true};
+ 
+ 	{"BRU_41A", 0, "BRU_41A_DIF_spank", false};
+	
+	{"bdu-33", 0, "bdu-33_spank", false};
+	
+	{"mk-20", 0, "mk_20_diff_spank", false};
+	
+	{"LAU_61", 0, "LAU_61_Diff_spank", false};
+	
+	{"LAU-68", 0, "lau-68_spank", false};
 	
 	{"pilot_F18", 0 ,"pilot_F18_85SQN",false};
 	{"pilot_F18_helmet", 0 ,"pilot_F18_helmet",true};
@@ -261,4 +281,4 @@ livery = {
 	
 }
 name = "85 SQN Spank"
-countries = {"AUS","USA",}
+countries = {"AUS",}
