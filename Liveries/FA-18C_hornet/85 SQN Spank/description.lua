@@ -234,6 +234,10 @@ livery = {
 	
 	{"aim7_material", 0, "aim7m_diffuse_spank",false};
 	
+	{"AIM-120b", 0, "aim-120b_diff",false};
+	
+	{"AIM-120c", 0, "aim-120c_diff", false};
+	
 	{"AIM-9M", 0 ,"AIM-9M_Diff_spank",false};
 --	{"aim-9m", ROUGHNESS_METALLIC ,"AIM-9M_Diff_RoughMet",true};
 	{"AIM-9_Glass", 0, "aim-9m_glass_diff", true};
@@ -245,6 +249,8 @@ livery = {
 
     {"LAU_115C_127", 0, "LAU_115C_LAU_127_DIF_spank", false};
 --	{"LAU_115C_127", 2, "lau_115c_lau_127_dif_roughmet", true};
+
+	{"LAU_115C", 0, "LAU_115C_LAU_127_DIF_spank", false};
 
     {"LAU_10", 0, "lau_10_dif_spank", false};
 --	{"LAU_10", 2, "lau_10_dif_roughmet", true};
@@ -281,4 +287,4 @@ livery = {
 	
 }
 name = "85 SQN Spank"
-countries = {"AUS",}
+countries = {"AUS", "USA"}
