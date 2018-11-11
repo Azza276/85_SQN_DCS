@@ -244,6 +244,10 @@ livery = {
 	
 	{"AIM-9L", 0, "AIM-9L_Diff_spank", false};
 	
+	{"AIM-9X-main", 0, "AIM-9x_Spank_Dif", false};
+	
+	{"AGM-65E_n", 0, "agm_65e_n", false};
+	
 	{"BRU_33", 0, "bru_33_diff_spank", false};
 --  {"BRU_33", 2, "bru_33_dif_roughmet", true};
 
@@ -251,6 +255,8 @@ livery = {
 --	{"LAU_115C_127", 2, "lau_115c_lau_127_dif_roughmet", true};
 
 	{"LAU_115C", 0, "LAU_115C_LAU_127_DIF_spank", false};
+	
+	{"LAU-117", 0, "lau_117_118_dif_spank", false};
 
     {"LAU_10", 0, "lau_10_dif_spank", false};
 --	{"LAU_10", 2, "lau_10_dif_roughmet", true};
