@@ -18,4 +18,5 @@ livery = {
 
 
 }
+name = "[85th SQN] Azza276"
 countries = {"USA", "AUS"}

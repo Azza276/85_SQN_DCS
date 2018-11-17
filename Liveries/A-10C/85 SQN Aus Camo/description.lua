@@ -1,9 +1,9 @@
 livery = {
---	{"A-10C_PAINT_1-a", 0 ,"A-10C_85_Camo_1-a",false};
-	{"A-10C_PAINT_1-a", 0 ,"A-10C_85_Camo_2-a",false};
+	{"A-10C_PAINT_1-a", 0 ,"A-10C_85_Camo_1-a",false};
+--	{"A-10C_PAINT_1-a", 0 ,"A-10C_85_Camo_2-a",false};
 	{"A-10C_PAINT_1-b", 0 ,"A-10C_85_Camo_1-b",false};
---	{"A-10C_PAINT_1-c", 0 ,"A-10C_85_Camo_1-c",false};
-	{"A-10C_PAINT_1-c", 0 ,"A-10C_85_Camo_2-c",false};
+	{"A-10C_PAINT_1-c", 0 ,"A-10C_85_Camo_1-c",false};
+--	{"A-10C_PAINT_1-c", 0 ,"A-10C_85_Camo_2-c",false};
 	{"A-10C_PAINT_1-d", 0 ,"A-10C_85_Camo_1-d",false};
 	{"A-10C_PAINT_1-e", 0 ,"A-10C_85_Camo_1-e",false};
 	{"A-10C_PAINT_1-f", 0 ,"A-10C_85_Camo_1-f",false};
@@ -20,5 +20,5 @@ livery = {
 
 
 }
-name = "[85th SQN] Red Roosters Beak"
+name = "[85th SQN] Aus Cammo"
 countries = {"USA", "AUS"}
