@@ -292,5 +292,5 @@ livery = {
 
 	
 }
-name = "85 SQN Spank"
+name = "[85th SQN] Spank"
 countries = {"AUS", "USA"}

@@ -68,5 +68,5 @@ livery = {
 	{"WINGL_NUMBER_100", 0 ,"M2KC_Camo_1T",false};
 	{"WINGL_NUMBER_100", DECAL ,"empty",false};
 }
-name = "85 SQN Aus Camo"
+name = "[85th SQN] Aus Camo"
 countries = {"FRA", "AUS"}

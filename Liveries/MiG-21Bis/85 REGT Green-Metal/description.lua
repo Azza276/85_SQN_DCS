@@ -107,6 +107,6 @@ livery = {
 
 }
 
-name = "85 Regt Green|Metal"
+name = "[85 Regt] Green|Metal"
 
 --countries = {"USA", "RUS", "AUS", "UKR", "SPN", "NETH", "TUR", "BEL", "GER", "NOR", "CAN", "DEN", "UK", "GRG", "ISR", "ABH", "RSO"}
