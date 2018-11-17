@@ -41,6 +41,6 @@ livery = {
 
 }
 
-name = "85 SQN Naval Low Vis"
+name = "[85th SQN] Naval Low Vis"
 
 countries = {"AUS", "USA"}
