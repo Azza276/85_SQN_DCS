@@ -45,6 +45,6 @@ livery = {
 
 }
 
-name = "85 SQN Ground Camo Hi Vis"
+name = "[85th SQN] Ground Camo Hi Vis"
 
 countries = {"AUS", "USA"}
